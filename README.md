@@ -6,6 +6,6 @@
 ### Notebook files
 * [Data Collection](https://github.com/csdoris/msa-auckland-house-prices/blob/master/part-1-data-collection.ipynb "Data Collection")
 * [Data Analysis and Model Building in Python](https://github.com/csdoris/msa-auckland-house-prices/blob/master/auckland-house-prices-analysis-in-Python.ipynb "Data Analysis and Model Building")
-* [Data Analysis (ANOVA) in R](https://github.com/csdoris/msa-auckland-house-prices/blob/master/auckland-house-prices-analysis-in-R.ipynb "Data Analysis ANOVA in R")
+* [Data Analysis (ANOVA) in R](https://github.com/csdoris/msa-auckland-house-prices/blob/master/auckland-house-prices-analysis-in-R-ANOVA.ipynb "Data Analysis ANOVA in R")
 ### Report
 * [Report - Analysis of Auckland House Prices](https://github.com/csdoris/msa-auckland-house-prices/blob/master/Analysis%20of%20Auckland%20House%20Prices.pdf "Report - Analysis of Auckland House Prices")
